@@ -58,7 +58,9 @@
 - фильтры и селекторы;
 - детальная таблица с ссылками на выступления.
 
-## Скриншоты
+## Дашборд
+[Открыть дашборд в Yandex DataLens](https://datalens.yandex/u6pqpmiqu7uef?_no_controls=1)
+## Скриншоты Дашборда
 
 ### Обзорная вкладка дашборда
 
@@ -67,11 +69,6 @@
 ### Детальная вкладка дашборда
 
 ![Детальная вкладка](screenshots/dashboard_details.png)
-
-## Ссылка на дашборд
-
-Дашборд опубликован в Yandex DataLens:  
-https://datalens.yandex/u6pqpmiqu7uef?_no_controls=1
 
 ## Вывод
 
