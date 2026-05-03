@@ -29,6 +29,9 @@
 
 Yandex DataLens, SQL, PostgreSQL, продуктовая аналитика, Retention, DAU, CR, LTV, визуализация данных.
 
+## Дашборд
+
+[Открыть дашборд в Yandex DataLens](https://datalens.yandex/mg9suvrm0z0w6)
 
 ## Скриншоты дашборда
 
