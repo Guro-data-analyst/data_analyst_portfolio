@@ -57,19 +57,16 @@ DAU, CR, Retention, LTV, средний чек, выручка, конверси
 
 ---
 
-## Структура репозитория
+## Примечание
 
-```text
-data_analyst_portfolio/
-│
-├── README.md
-│
-├── 01_sql_fantasy_game_analysis/
-├── 02_sql_real_estate_ad_hoc_analysis/
-├── 03_ab_test_recommendation_algorithm/
-├── 04_python_game_data_preprocessing/
-├── 05_datalens_ted_conferences_dashboard/
-├── 06_datalens_food_delivery_metrics/
-├── 07_datalens_yandex_afisha_events_dashboard/
-├── 08_datalens_real_estate_dashboard/
-└── 09_python_yandex_afisha_eda_hypothesis_testing/
+В DataLens-проектах используются обезличенные экспорт-файлы: параметры подключений удалены или замаскированы перед публикацией на GitHub.
+
+Исходные датасеты учебных Python-проектов не опубликованы из-за условий использования данных. В репозитории представлены код, структура анализа, визуализации, выводы и рекомендации.
+
+---
+
+## Контакты
+
+- Email: mkguro@gmail.com
+- Telegram: @KMGuro
+- GitHub: https://github.com/Guro-data-analyst
