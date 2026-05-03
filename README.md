@@ -69,4 +69,5 @@ DAU, CR, Retention, LTV, средний чек, выручка, конверси
 
 - Email: mkguro@gmail.com
 - Telegram: @KMGuro
+- LinkedIn: https://www.linkedin.com/in/kirill-guro-258812114
 - GitHub: https://github.com/Guro-data-analyst
