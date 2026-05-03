@@ -10,6 +10,8 @@
 
 ## Дашборд
 
+[Открыть дашборд в Yandex DataLens](https://datalens.yandex/mp036zz0n4xk6)
+
 ![Дашборд «Аналитика мероприятий»](screenshots/dashboard_overview.png)
 
 ## Аналитическая записка
